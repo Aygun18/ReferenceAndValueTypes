@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\bin\Debug\net6.0\ReferenceAndValueTypes.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\refint\ReferenceAndValueTypes.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ReferenceAndValueTypes.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\Praktika\ReferenceAndValueTypes\obj\Debug\net6.0\ref\ReferenceAndValueTypes.dll
